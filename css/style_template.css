@@ -65,6 +65,7 @@ footer a:hover {
     background: linear-gradient(to bottom, #b7b7a4, #ddbea9);
     margin-bottom: 20px;
     color: #5e503f;
+    padding: 30px;
 }
 
 .splash h1 {
@@ -88,7 +89,6 @@ footer a:hover {
     color: #414833;
     font-size: 18px;
     margin: 0;
-    padding: 30px;
 }
 
 /* Horizontal Rules */
