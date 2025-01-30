@@ -165,6 +165,7 @@ dl dd{
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
     margin-bottom: 3px;
+    max-width: 400px;
 }
 
 .card {
