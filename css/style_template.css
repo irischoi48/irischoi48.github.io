@@ -87,6 +87,7 @@ footer a:hover {
     padding: 5px;
     color: #414833;
     font-size: 18px;
+    max-width: 1000px;
 }
 
 /* Horizontal Rules */
